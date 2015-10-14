@@ -59,11 +59,12 @@ You must complete at least 50 points worth of the following additional features.
 3. **Demo Appointments** - Demonstration times are first come, first served. If you fail to make an appointment you will not receive credit. If you are not ready by your appointment time, you will not receive credit.
 4. **Remote Execution** - At each demonstration, your code must be running on your assigned microcloud node, or on AWS or another hosting service.
 5. **Servlets** - You are encouraged to use Servlets/Jetty.
-6. **3rd Party Libraries** - You may use other frameworks and/or libraries. For any library, however, seek instructor approval.
-7. **Code Submission** - At the time your demonstration appointment begins, all code you wish to be considered for the release must be committed to your github `<username>-project` repository.
-8. **Github Usage** - You are expected to use Github appropriately.
-9. **User Experience** - Your web pages should look professional. You may use Bootstrap, or other frameworks for this purpose. If you do not, that's fine, but make sure your pages have a clean look.
-10. **Demo Design** - You must design your demonstration for each release carefully. It is *your responsibility* to show the professor complete working functionality for each feature. If you fail to demonstrate, completely, how a feature works you may not receive credit for that feature. Be prepared with a script of how you will demonstrate your site, and make sure to include demonstration of how your features handle error cases (e.g., login of a user that does not exist).
+6. **Relational Database** - You are expected to use the SQL database assigned here: [mySQL Assignments](sqlassigns.md).
+7. **3rd Party Libraries** - You may use other frameworks and/or libraries. For any library, however, seek instructor approval.
+8. **Code Submission** - At the time your demonstration appointment begins, all code you wish to be considered for the release must be committed to your github `<username>-project` repository.
+9. **Github Usage** - You are expected to use Github appropriately.
+10. **User Experience** - Your web pages should look professional. You may use Bootstrap, or other frameworks for this purpose. If you do not, that's fine, but make sure your pages have a clean look.
+11. **Demo Design** - You must design your demonstration for each release carefully. It is *your responsibility* to show the professor complete working functionality for each feature. If you fail to demonstrate, completely, how a feature works you may not receive credit for that feature. Be prepared with a script of how you will demonstrate your site, and make sure to include demonstration of how your features handle error cases (e.g., login of a user that does not exist).
 
 
 #Grading
