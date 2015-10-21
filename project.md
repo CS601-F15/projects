@@ -1,8 +1,6 @@
 CS 601 - Fall 2015 - Yap Project
 =================================
 
-*This project description is tentative and subject to change.*
-
 The goal of this project is to implement a Yelp-like review site, called Yap! Make sure you are familiar with [Yelp](http://www.yelp.com) before beginning this project.
 
 For this project, you will build your own web site from scratch. You will design and implement a two-tier web application with a Java front end and a SQL backend. 
