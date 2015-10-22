@@ -92,3 +92,9 @@ You will be graded on three releases of your project.
 - (4 points) System architecture and code design.
 - (2 points) Quality of user experience.
 - (2 points) Demonstration of appropriate test cases.
+
+#Resources
+Here are some of the tools and frameworks you should consider using in your solution:
+
+1. [String Template](http://www.stringtemplate.org/)
+2. [Bootstrap](http://getbootstrap.com/)
