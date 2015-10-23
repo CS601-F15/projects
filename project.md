@@ -96,5 +96,6 @@ You will be graded on three releases of your project.
 #Resources
 Here are some of the tools and frameworks you should consider using in your solution:
 
-1. [String Template](http://www.stringtemplate.org/)
-2. [Bootstrap](http://getbootstrap.com/)
+1. [Jetty Servlet Engine] (http://www.eclipse.org/jetty/)
+2. [String Template](http://www.stringtemplate.org/)
+3. [Bootstrap](http://getbootstrap.com/)
