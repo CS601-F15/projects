@@ -98,5 +98,6 @@ Here are some of the tools and frameworks you should consider using in your solu
 
 1. [Jetty Servlet Engine] (http://www.eclipse.org/jetty/)
 2. [String Template](http://www.stringtemplate.org/)
-3. [Bootstrap](http://getbootstrap.com/)
-4. [Bootstrap Tutorial](http://www.w3schools.com/bootstrap/default.asp) from w3schools
+3. [Parr's String Template Notes](http://www.cs.usfca.edu/~parrt/course/601/lectures/stringtemplate.html)
+4. [Bootstrap](http://getbootstrap.com/)
+5. [Bootstrap Tutorial](http://www.w3schools.com/bootstrap/default.asp) from w3schools
