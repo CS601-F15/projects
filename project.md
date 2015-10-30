@@ -50,6 +50,14 @@ You must complete at least 50 points worth of the following additional features.
 | 10 | Roll Your Own Server | Use your own HTTP server. Your server must use raw Sockets for communication and must completely support GET and POST requests. |
 | up to 10 | Choose your own | Propose your own feature to the instructor during office hours. |
 
+#Extra Credit Only Features
+
+Only students who receive full credit for all features in releases 1-3 will be eligible to receive extra credit for the following features.
+
+| Points   | Feature         | Description |
+| :-------: |:-------------:| :-----|
+| 5 | Presentation | Sign up to present your application to the class during the last two lectures.
+
 #Requirements
 
 1. **Java** - Unless you have received a special exception from the professor, you are expected to use Java to implement this assignment.
