@@ -33,6 +33,7 @@ You must complete at least 50 points worth of the following additional features.
 
 | Points   | Feature         | Description |
 | :-------: |:-------------:| :-----|
+| 5 | Relational database - Businesses | Use a relational database to store *business* data. |
 | 10 | Add review | Allow a user to add a new review for a business. Unlike Yelp, allow a user to create a business if it does not already exist. |
 | 5 | Modify/delete review | Allow a user to modify or delete a review *that s/he has written*.
 | 10 | Voting | Allow users to vote on whether a review is Useful, Funny, or Cool. |
